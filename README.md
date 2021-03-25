@@ -12,7 +12,7 @@ Currently I'm studying back-end technologies.
 
 #### Top Technologies
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](#)[![Java Badge](https://img.shields.io/badge/-Java-E82F31?style=for-the-badge&labelColor=black&logo=java&logoColor=E82F31) ](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)[![Java Badge](https://img.shields.io/badge/-Java-E82F31?style=for-the-badge&labelColor=black&logo=java&logoColor=E82F31) ](https://github.com/ThiagoSFerraz/JAVA)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) 
 
 <br/>
 
