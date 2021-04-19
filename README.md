@@ -7,12 +7,12 @@ Currently I'm studying back-end technologies.
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Ferraz-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-ferraz-38821a155/) [![Mail Badge](https://img.shields.io/badge/-Oniferraz-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oniferraz@gmail.com)
 
 
-- 🌌 I’m currently learning Java ☕
+- 🌌 I’m currently learning front-end technologies ( Angular / Vue )☕
 - 📫 How to reach me: oniferraz@gmail.com.
 
 #### Top Technologies
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)[![Java Badge](https://img.shields.io/badge/-Java-E82F31?style=for-the-badge&labelColor=black&logo=java&logoColor=E82F31) ](https://github.com/ThiagoSFerraz/JAVA)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) 
 
 <br/>
 
