@@ -1,6 +1,6 @@
 ## Hi, I'm Thiago Ferraz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Currently I'm studying back-end technologies.
+Currently I'm studying JS Frameworks!
 
 :mailbox: Contact me :smiley:
 
@@ -12,7 +12,7 @@ Currently I'm studying back-end technologies.
 
 #### Top Technologies
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Vue Badge](https://img.shields.io/badge/-Vue.Js-00bb76?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=00bb76) ](https://github.com/ThiagoSFerraz/Projects/tree/main/Vue) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)
 
 <br/>
 
