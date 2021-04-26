@@ -1,7 +1,5 @@
 ## Hi, I'm Thiago Ferraz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Currently I'm studying JS Frameworks!
-
 :mailbox: Contact me :smiley:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Ferraz-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-ferraz-38821a155/) [![Mail Badge](https://img.shields.io/badge/-Oniferraz-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oniferraz@gmail.com)
