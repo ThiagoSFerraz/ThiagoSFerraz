@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Ferraz-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-ferraz-38821a155/) [![Mail Badge](https://img.shields.io/badge/-Oniferraz-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oniferraz@gmail.com)
 
+I'm always trying to evolve and learn more! 🎯
 <br/>
 
 #### Top Technologies
