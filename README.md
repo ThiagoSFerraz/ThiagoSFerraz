@@ -4,13 +4,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Ferraz-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-souza-ferraz-38821a155/) [![Mail Badge](https://img.shields.io/badge/-Oniferraz-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oniferraz@gmail.com)
 
-
-- 🌌 I’m currently learning front-end technologies ( Angular / Vue )☕
-- 📫 How to reach me: oniferraz@gmail.com.
+<br/>
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![Vue Badge](https://img.shields.io/badge/-Vue.Js-00bb76?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=00bb76) ](https://github.com/ThiagoSFerraz/Projects/tree/main/Vue) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/ThiagoSFerraz/FullStackEletro) [![PHP Badge](https://img.shields.io/badge/-PHP-585F7D?style=for-the-badge&labelColor=black&logo=php&logoColor=585F7D) ](https://github.com/ThiagoSFerraz/cade-minha-casa)  [![Vue Badge](https://img.shields.io/badge/-Vue.Js-00bb76?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=00bb76) ](https://github.com/ThiagoSFerraz/Projects/tree/main/Vue) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/ThiagoSFerraz/node-avancado) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC) ](https://github.com/ThiagoSFerraz/NLW)
 
 <br/>
 
