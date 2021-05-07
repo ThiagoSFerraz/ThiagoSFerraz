@@ -14,9 +14,6 @@ I'm always trying to evolve and learn more! 🎯
 <br/>
 
 
-
-
-
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoSFerraz&count_private=true&theme=radical&hide=contribs,prs)
 
 </details>
